@@ -2,7 +2,7 @@
 
 1. Download the repo by clicking on the "Download to ZIP" button on the main page.
 2. Extract the zip file.
-3. Bring the .obj file from within the extracted zip into your slicer of choice. Some printers have been pre-sliced, so check out the `pre-sliced` folder to see if your 3D printer is supported.
+3. Bring the MOST RECENT .obj file from within the extracted zip into your slicer of choice. Some printers have been pre-sliced, so check out the `pre-sliced` folder to see if your 3D printer is supported.
   - Use a food-safe filament, such as PLA. You ***DO NOT*** want chemicals in your food.
   - The quality of the print does not matter too much, but do make sure to use a raft while printing.
   - Let the print cool completely before making ravioli in it.
